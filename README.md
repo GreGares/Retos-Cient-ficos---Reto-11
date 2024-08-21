@@ -3,5 +3,5 @@
 ## Integrantes: 
 + Juan Felipe Rodríguez
 + Gregory García Esteban
-+ Jhonny Camacho
++ Jhonny Camacho Cortes
 
